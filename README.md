@@ -75,14 +75,14 @@ python main_gui_template.py
 
 ## Support
 
-#### For support or inquiries, please contact our team at:
-ssp.sys.team@gmail.com
+#### For support or inquiries, please contact me at:
+leemm2211@gmail.com
 
 ## Acknowledgements
 
 ***First and foremost**,* *we would like to thank God Almighty for granting us the strength and determination to complete this project.*
 
-*We sincerely express our deepest gratitude and appreciation to **Dr. Jomana Alhamidi**, who supervised us during GP1. Her valuable guidance, consistent support, and encouragement laid the foundation for the successful progression of our project, We also extend our special thanks to **Dr. Shatha Al-Khaldi**, our supervisor during GP2, whose continuous guidance and valuable advice played a major role in enriching this project and helping us achieve the best possible outcomes. She was a true source of support and encouragement at every stage.*
+*We sincerely express our deepest gratitude and appreciation to **Dr. Jomana **, who supervised us during GP1. Her valuable guidance, consistent support, and encouragement laid the foundation for the successful progression of our project, We also extend our special thanks to **Dr. Shatha **, our supervisor during GP2, whose continuous guidance and valuable advice played a major role in enriching this project and helping us achieve the best possible outcomes. She was a true source of support and encouragement at every stage.*
 
 *We also extend our heartfelt thanks to our families for their endless patience, encouragement, and prayers throughout the entire process, as well as to our friends who stood by us with their support and motivation.*
 
