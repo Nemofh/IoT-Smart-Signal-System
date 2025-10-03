@@ -90,7 +90,8 @@ It works alongside the Python desktop application to control real-time signal pr
 3. Open the **Serial Monitor** at `9600 baud` to send/receive commands.
 4. Use the Python GUI app (`main_gui_template.py`) to interact with the Arduino system.
 
-👉 [Click here to view the Arduino code](./TrafficSign.ino)
+👉 [TrafficSign.ino](./arduino/TrafficSign/TrafficSign.ino)
+
 
 
 ## Support
