@@ -1,0 +1,6 @@
+tkcalendar
+tkinter
+sqlite3
+fpdf
+pillow
+pyserial
