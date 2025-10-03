@@ -72,6 +72,26 @@ It is strongly recommended to use **Visual Studio Code (VS Code)** for editing a
 ```bash
 python main_gui_template.py
 ```
+## ⚡ Arduino Setup
+
+This project also includes an **Arduino sketch** (`TrafficSign.ino`) that simulates the traffic light system using IR sensors and LEDs.  
+It works alongside the Python desktop application to control real-time signal priorities.
+
+### 🔌 Hardware Requirements:
+- Arduino board (Uno or compatible)
+- IR sensors
+- LEDs (Red, Orange, Green)
+- Resistors
+- Jumper wires & Breadboard
+
+### ▶️ How to Run:
+1. Open the file [`TrafficSign.ino`](./TrafficSign.ino) in **Arduino IDE**.
+2. Connect your Arduino board and upload the code.
+3. Open the **Serial Monitor** at `9600 baud` to send/receive commands.
+4. Use the Python GUI app (`main_gui_template.py`) to interact with the Arduino system.
+
+👉 [Click here to view the Arduino code](./TrafficSign.ino)
+
 
 ## Support
 
